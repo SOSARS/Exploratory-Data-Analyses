@@ -1,6 +1,6 @@
 # Level-2-Capstones
 
-**Automobile Capstone Project
+**Automobile Capstone Project**
 
 The project serves as an exploratory data analysis task used to analyse a set of automobiles. The dataset provides information on the various components and specifications of the vehicles such as the body-style, manufacturer, wheelbase length, storage capacity, etc. The project was undertaken to identify the trends of the various vehicle manufacturers such as whether certain manufacturers opt for a specific wheelbase, aspirator and/or fuel system. Included in the analysis is the analysis on the vehicle style that is favoured by manufacturers. In other words, to identify whether manufacturers opt to produce sedans over SUVs because sedans are smaller and generally cheaper than SUVs to produce.
 
@@ -16,7 +16,7 @@ After analysis, it is made clear that vehicle manufacturers favour the productio
 
 
 
-**Capstone III
+**Capstone III**
 
 The project entails the dataset pertaining to video game sales recorded in North America, Europe, Japan and the rest of the world. The video game sales are split into genres such as action, role-playing, shooter and adventure along with the various platforms and publishers of the video games. The dataset found on Kaggle is used to conduct an Exploratory Data Analysis, otherwise referred to as an EDA, and to identify trends and correlations. This process included the identification of null values, columns that were deemed irrelevant to the analysis and columns that had to be removed to make for easier analysis and creating visualisations to present the information in a readable manner. Python, Pandas, Matplotlib, Seaborn, WordCloud and Missingno are modules that have been used to aid the analysis of the dataset.
 
