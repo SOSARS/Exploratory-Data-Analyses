@@ -12,3 +12,8 @@ The data is analysed by making use of modules such as python, matplotlib and pan
 
 After analysis, it is made clear that vehicle manufacturers favour the production and distribution of gas vehicles as opposed to diesel vehicles. Why that is has been left unanswered due to lack of additional context, but the assumption remains that manufacturers opt for gas vehicles because they are more cost-effective to produce than diesel vehicles. Manufacturers lean more towards STD aspirators due to the improved fuel-efficieny provided by the aspirators. More on these findings in EDA.docx.
 
+
+
+
+
+#Capstone III#
