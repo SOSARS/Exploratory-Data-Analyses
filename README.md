@@ -1,4 +1,4 @@
-# Level-2-Capstones
+# Exploratory Data Analyses
 
 **Automobile Capstone Project**
 
